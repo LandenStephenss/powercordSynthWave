@@ -1,0 +1,8 @@
+{
+    "name": "SynthWave84",
+    "description": "A codeblock theme",
+    "version": "1.0.0",
+    "author": "Olykir",
+    "license": "MIT",
+    "theme": "./src/index.scss"
+}
